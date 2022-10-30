@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>firs_page.png</file>
+        <file>heart.png</file>
+        <file>Poppins-Regular.ttf</file>
+        <file>Poppins-SemiBold.ttf</file>
+        <file>sec_page.png</file>
+        <file>stroke.png</file>
+        <file>third_page.png</file>
+    </qresource>
+</RCC>
